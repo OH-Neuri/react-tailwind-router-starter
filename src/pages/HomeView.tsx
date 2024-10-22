@@ -1,7 +1,7 @@
 const HomeView = () => {
   return (
     <>
-      <h1>HomeView Component</h1>
+      <h1 className="h-2 w-3">HomeView Component</h1>
     </>
   );
 };
